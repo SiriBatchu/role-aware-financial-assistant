@@ -9,8 +9,6 @@ A sophisticated AI-powered financial assistant that delivers fast, context-rich 
 ### 🔗 Quick Links
 - **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/mohibkhan949/role-aware-financial-assistant)
 - **Video Presentation:** [YouTube](https://youtu.be/JLQCUWa6SnM)
-- **Project Slides:** [PowerPoint Deck](https://github.com/Mohib1402/role-aware-financial-assistant/blob/main/Role%20Aware%20Financial%20Insights%20Assistant.pptx)
-- **Project Report:** [Report](https://github.com/Mohib1402/role-aware-financial-assistant/blob/main/Report_%20Role-Aware%20Financial%20Insights%20Assistant.pdf)
 
 ---
 
@@ -27,7 +25,7 @@ A sophisticated AI-powered financial assistant that delivers fast, context-rich 
 - [Validation Tests](#validation-tests)
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
-- [Team Contributions](#team-contributions)
+
 
 ---
 
@@ -341,18 +339,6 @@ print(answer)  # "The chart shows NVIDIA annual revenue..."
 3. **User Authentication**: Real login system with role assignment
 4. **Deployment**: Docker container, cloud deployment
 
----
-
-## 👥 Team Contributions
-
-| Member | Role & Contributions |
-|--------|----------------------|
-| **Aishly Manglani** | LangGraph workflow design, ReAct pattern implementation, agent architecture |
-| **Syeda Nida Khader** | Role-Based Access Control (RBAC) logic, retriever filtering, security design |
-| **MohibKhan Pathan** | GPT-4o-mini integration, Vision RAG module, Hugging Face deployment |
-| **Siri Batchu** | UI testing, sample data review |
-
-*Documentation, testing, and reporting completed by all team members.*
 
 ---
 
