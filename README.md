@@ -12,7 +12,6 @@ A sophisticated AI-powered financial assistant that delivers fast, context-rich 
 
 ---
 
-
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
